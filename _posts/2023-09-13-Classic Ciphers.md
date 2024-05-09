@@ -5,7 +5,6 @@ categories: [Study, Crypto]
 tags: [symmetric, key]     # TAG names should always be lowercase
 math: true
 mermaid: true
-published : false
 ---
 
 > A. Shift Cipher<br>
