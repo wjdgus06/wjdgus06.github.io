@@ -5,6 +5,7 @@ categories: [Study, Crypto]
 tags: [symmetric, key]     # TAG names should always be lowercase
 math: true
 mermaid: true
+published : false
 ---
 
 > A. char_freq(string): It takes a string (ex "abcdefaaa") and returns a dictionary that contains a frequency listing.<br>

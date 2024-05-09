@@ -5,6 +5,7 @@ categories: [Study, Crypto]
 tags: [symmetric, key]     # TAG names should always be lowercase
 math: true
 mermaid: true
+published : false
 ---
 > Implement the 3-rounds simple DES cipher using Python. You should submit sdes.pdf and 
 sdes.py file in which sdes.pdf contains the souce code and the running results of implemented 
